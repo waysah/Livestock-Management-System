@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246474950710",
+    "project_id": "dekut-lms",
+    "storage_bucket": "dekut-lms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246474950710:android:205970db5af901398d3097",
+        "android_client_info": {
+          "package_name": "com.example.livestockmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYSrSu6lH8Hv0FLhJqXlq86bbOGqJBnT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

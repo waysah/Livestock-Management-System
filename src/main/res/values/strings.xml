@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Livestock Management</string>
+    <string name="column1">Name</string>
+    <string name="column2">Breed</string>
+    <string name="column3">Purpose</string>
+    <string name="dashboard">DeKUT LMS</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_tasks">Tasks</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_milk_inventory">Milk Inventory</string>
+    <string name="menu_breeding">Breeding</string>
+    <string name="menu_animal_health">Animal Health</string>
+    <string name="menu_feeding">Feeding</string>
+    <string name="menu_analytics">Analytics</string>
+    <string name="text_cow_name">Cow Name</string>
+    <string name="text_tag">Tag:</string>
+    <string name="text_purpose">Purpose</string>
+    <string name="text_breed">Breed</string>
+    <string name="text_species">Species</string>
+    <string name="text_weight">Weight</string>
+    <string name="text_age">Age</string>
+    <string name="text_gender">Gender</string>
+    <string name="text_status">Status</string>
+    <string name="text_save">Save</string>
+    <string name="text_content_description">Cow Photo</string>
+    <string name="text_print">PRINT</string>
+    <string name="text_date">Date</string>
+    <string name="text_afternoon">Afternoon</string>
+    <string name="text_morning">Morning</string>
+    <string name="text_evening">Evening</string>
+    <string name="text_total">Total</string>
+    <string name="text_button">Add Milk Record</string>
+
+
+</resources>
